@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "title": "Bohemian Rhapsody",
+  "artist": "Queen",
+  "sections": {
+    "verse": ["Is this the real life?", "Is this just fantasy?", "Caught in a landslide", "No escape from reality"],
+    "chorus": ["Mama, just killed a man", "Put a gun against his head", "Pulled my trigger, now he's dead"],
+    "bridge": ["I see a little silhouetto of a man", "Scaramouche, Scaramouche, will you do the Fandango?"]
+  }
+}
